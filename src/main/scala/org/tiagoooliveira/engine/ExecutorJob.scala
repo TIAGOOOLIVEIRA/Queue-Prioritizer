@@ -1,5 +1,5 @@
 package org.tiagoooliveira.engine
 
-class QueuePrioritizer {
+class ExecutorJob {
 
 }

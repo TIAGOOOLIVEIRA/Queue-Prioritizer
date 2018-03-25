@@ -1,8 +1,9 @@
 package org.tiagoooliveira.helpers
 
-import org.tiagoooliveira.domain
-import scala.util.parsing.json.JSON
+import java.util.UUID
 
 class Helpers {
+
+  def getNewUUID: String = UUID.randomUUID().toString
 
 }
